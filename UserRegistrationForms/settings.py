@@ -126,6 +126,18 @@ MEDIA_ROOT=MEDIA_DIR
 
 MEDIA_URL='media/'
 
+EMAIL_HOST='smtp.gmail.com'
+
+EMAIL_HOST_USER='anushareddypavan@gmail.com'
+
+EMAIL_HOST_PASSWORD='kaatpeaupvullvxn'
+
+EMAIL_USE_TSL=True
+
+EMAIL_USE_SSL=False
+
+EMAIL_PORT=587
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
